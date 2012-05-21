@@ -13,12 +13,20 @@ public class clase1 {
 	{
 		System.out.println("Hola otra vez CLASE1");
 	}
+
+	
+	public static void metodo_rama1_clase1()	
+	{
+		System.out.println("metodo_rama1_clase1");
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		metodo1_clase1();
 		
 		metodo1_1_clase1();
+		
+		metodo_rama1_clase1();
 	}
 
 }
