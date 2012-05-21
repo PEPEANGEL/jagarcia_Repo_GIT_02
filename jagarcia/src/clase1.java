@@ -9,6 +9,11 @@ public class clase1 {
 		System.out.println("Soy la clase 1");
 	}
 	
+	public static void metodo2_clase1()	
+	{
+		System.out.println("Hola otra vez");
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		metodo1_clase1();	
